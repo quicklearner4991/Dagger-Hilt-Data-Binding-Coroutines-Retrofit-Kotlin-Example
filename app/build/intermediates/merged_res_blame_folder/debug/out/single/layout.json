@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Downloads/DevArena-development/TravelBank/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/expenses_item.xml",
+        "source": "/Users/apple/Downloads/DevArena-development/TravelBank/app/src/main/res/layout/expenses_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/DevArena-development/TravelBank/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/Users/apple/Downloads/DevArena-development/TravelBank/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/DevArena-development/TravelBank/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/apple/Downloads/DevArena-development/TravelBank/app/src/main/res/layout/activity_main.xml"
+    }
+]
